@@ -10,5 +10,5 @@ This repository contains some different small projects purely based on `JS`, `HT
 - [Guess My Number](https://number-guessing-application.netlify.app/)
 - [Dice Game](https://dice-game-basic-dom.netlify.app/)
 - [Bankist Website](https://bankist-site-advance-dom.netlify.app/)
-- [Mapty](https://forkify-web-application.netlify.app/)
+- [Mapty](https://mapty-application-project.netlify.app/)
  
