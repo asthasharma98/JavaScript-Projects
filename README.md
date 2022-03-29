@@ -4,7 +4,7 @@ This repository contains some different small projects purely based on `JS`, `HT
 
 ### Some other resources
 - [https://developer.monzilla.org](https://developer.monzilla.org/)
-- [https://www.w3school.com)](https://www.w3school.com/)
+- [https://www.w3school.com](https://www.w3school.com/)
 
 ### List of Projects
 - [Guess My Number](https://number-guessing-application.netlify.app/)
