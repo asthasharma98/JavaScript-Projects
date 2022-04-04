@@ -49,9 +49,12 @@ npm run start
 
 #### Tools and Technologies used
 
-[![ES6](https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png)](http://www.ecma-international.org/ecma-262/6.0/)
-[![npm](https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png)](https://www.npmjs.com/)
-[![NodeJS](https://github.com/FransLopez/logo-images/blob/master/logos/nodejs.png)](https://nodejs.org/)
-[![SASS](https://github.com/FransLopez/logo-images/blob/master/logos/sass.png)](http://sass-lang.com/) 
+- [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+- [SCSS](https://sass-lang.com/)
+- [Node.Js](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
+- [JS ES6](https://www.w3schools.com/js/js_es6.asp)
+- [Parcel](https://parceljs.org/)
+
 
 
