@@ -32,9 +32,9 @@ const KEY = 'ENTER YOUR API';
 ```
 - Deployment code is located in *"Public folder"*.
 - To launch development code download zip file on your computer. Extract it into the empty folder. Then open npm to install all dependencies. Inside project's directory type:
-'''
+```
 npm init
-'''
+```
 ```
 npm run start 
 ```
