@@ -8,7 +8,7 @@ Favorite meals are stored in local storage so no database was required for this 
 
 ### How to run the code and Installations
 
-####Prerequisites 
+#### Prerequisites 
 
 Before getting started with this project make sure that you have the latest version of `Node.js` installed in your local machine.
 Here is the link from where you can download and install Node - [https://nodejs.org/en/](https://nodejs.org/en/)
