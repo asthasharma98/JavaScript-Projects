@@ -19,6 +19,39 @@ Start with the latest version of NPM to avoid any errors:
 npm install npm@latest -g
 ```
 
+#### Installation 
 
+- Get a free API key at [Forkify API_KEY](https://forkify-api.herokuapp.com/v2)
+- To clone the repository 
+```
+https://github.com/asthasharma98/JavaScript-Projects.git
+```
+- Enter your API in `config.js`
+```
+const KEY = 'ENTER YOUR API';
+```
+- Deployment code is located in *"Public folder"*.
+- To launch development code download zip file on your computer. Extract it into the empty folder. Then open npm to install all dependencies. Inside project's directory type:
+'''
+npm init
+'''
+```
+npm run start 
+```
+
+#### Purpose of the project was to learn
+
+- How to Setup a entire workflow using *Node.js* and *npm*. Its core dependencies allowed me to optimize my code and not to worry about the server side of my project.
+- Worked with AJAX and implemented API calls using *fetch* to send promises to the recipes server and fetching data.
+- tried new feature called `local storage`. It helps to store favourite recipes list information throughout multiple sessions locally in user's browser. 
+- got to know about the `MVC` architecture.
+- covered latest feature of JS and As many old browsers do not support ES6 JavaScript using `parcel`.
+
+#### Tools and Technologies used
+
+[![ES6](https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png)](http://www.ecma-international.org/ecma-262/6.0/)
+[![npm](https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png)](https://www.npmjs.com/)
+[![NodeJS](https://github.com/FransLopez/logo-images/blob/master/logos/nodejs.png)](https://nodejs.org/)
+[![SASS](https://github.com/FransLopez/logo-images/blob/master/logos/sass.png)](http://sass-lang.com/) 
 
 
