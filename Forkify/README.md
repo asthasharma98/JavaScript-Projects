@@ -8,7 +8,7 @@ Favorite meals are stored in local storage so no database was required for this 
 
 ### How to run the code and Installations
 
-#### Prerequisites 
+####Prerequisites 
 
 Before getting started with this project make sure that you have the latest version of `Node.js` installed in your local machine.
 Here is the link from where you can download and install Node - [https://nodejs.org/en/](https://nodejs.org/en/)
@@ -19,7 +19,7 @@ Start with the latest version of NPM to avoid any errors:
 npm install npm@latest -g
 ```
 
-#### Installation 
+### Installation 
 
 - Get a free API key at [Forkify API_KEY](https://forkify-api.herokuapp.com/v2)
 - To clone the repository 
@@ -39,7 +39,7 @@ npm init
 npm run start 
 ```
 
-#### Purpose of the project was to learn
+### Purpose of the project was to learn
 
 - How to Setup a entire workflow using *Node.js* and *npm*. Its core dependencies allowed me to optimize my code and not to worry about the server side of my project.
 - Worked with AJAX and implemented API calls using *fetch* to send promises to the recipes server and fetching data.
@@ -47,7 +47,7 @@ npm run start
 - got to know about the `MVC` architecture.
 - covered latest feature of JS and As many old browsers do not support ES6 JavaScript using `parcel`.
 
-#### Tools and Technologies used
+### Tools and Technologies used
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 - [SCSS](https://sass-lang.com/)
