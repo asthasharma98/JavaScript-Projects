@@ -4,7 +4,7 @@ The Forkify Recipe application allows user to search for various different recip
 Also as a user we can save the recipe and create our own recipe so that we can have them organized in the same app.
 Favorite meals are stored in local storage so no database was required for this application.
 
-**To view and try the deployed Application, click on the link given below:** [https://forkify-web-application.netlify.app/](https://forkify-web-application.netlify.app/)
+**To view and try the deployed Application, click on the given link :** [https://forkify-web-application.netlify.app/](https://forkify-web-application.netlify.app/)
 
 ### How to run the code and Installations
 
